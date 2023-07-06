@@ -4,4 +4,4 @@
 
 It is based on the original [LeaveIt Theme](https://github.com/liuzc/LeaveIt/) and [KeepIt Theme](https://github.com/liuzc/LeaveIt/).
 
-![windows2](static/lib/images/windows2.png)
+![Hugo Theme LoveIt](/lib/images/windows2.png)
