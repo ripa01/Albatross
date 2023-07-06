@@ -116,8 +116,8 @@ theme = "LoveIt"
         absoluteURL = false
         [languages.en.params.search.algolia]
           index = "index.en"
-          appID = "PASDMWALPK"
-          searchKey = "b42948e51daaa93df92381c8e2ac0f93"
+          appID = ""
+          searchKey = ""
       # Home page config
       [languages.en.params.home]
         # amount of RSS pages
